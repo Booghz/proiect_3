@@ -14,7 +14,7 @@
 
     <div class="form-group">
         {{ Form::label('date', 'Date') }}
-        {{ Form::text('date', Input::old('date'), array('class' => 'form-control')) }}
+        {{ Form::text('date', Input::old('date'), array('class' => 'form-control', 'id' => 'datetimepicker')) }}
     </div>
 
     <div class="form-group">

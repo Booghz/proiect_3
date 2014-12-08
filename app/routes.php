@@ -44,3 +44,8 @@ Route::get('logout', array('as' => 'logout', function () {
 Route::get('profile', array('as' => 'profile', function () { return View::make('profile'); }))->before('auth');
 
 Route::resource('consults', 'ConsultController');
+Route::resource('users', 'UsersController');
+Route::resource('patients', 'PatientsController');
+Route::resource('medicine', 'MedicineController');
+
+Route::get('admin', array('as' => 'admin', 'uses' => 'DashboardController@index'))->before('auth');;

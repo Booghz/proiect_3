@@ -3,16 +3,27 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/F:/xampp/htdocs/proiect_3/app/config/database.php</file>
-            <file>file:/F:/xampp/htdocs/proiect_3/composer.json</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/controllers/MedicineController.php</file>
             <file>file:/F:/xampp/htdocs/proiect_3/app/views/layout.blade.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/controllers/ConsultController.php</file>
             <file>file:/F:/xampp/htdocs/proiect_3/app/models/User.php</file>
-            <file>file:/F:/xampp/htdocs/proiect_3/app/filters.php</file>
-            <file>file:/F:/xampp/htdocs/proiect_3/app/database/migrations/2014_10_25_122420_create_users_table.php</file>
-            <file>file:/F:/xampp/htdocs/proiect_3/app/database/seeds/UsersSeeder.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/views/admin.blade.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/controllers/PatientsController.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/views/profile.blade.php</file>
             <file>file:/F:/xampp/htdocs/proiect_3/app/routes.php</file>
-            <file>file:/F:/xampp/htdocs/proiect_3/app/database/seeds/DatabaseSeeder.php</file>
-            <file>file:/F:/xampp/htdocs/proiect_3/app/config/app.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/models/Consult.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/views/medicine/index.blade.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/views/consult/edit.blade.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/views/users/create.blade.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/views/medicine/create.blade.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/views/login.blade.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/views/users/index.blade.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/views/consult/index.blade.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/models/Medicine.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/views/users/edit.blade.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/database/seeds/UsersSeeder.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/views/medicine/edit.blade.php</file>
+            <file>file:/F:/xampp/htdocs/proiect_3/app/controllers/UsersController.php</file>
         </group>
     </open-files>
 </project-private>
