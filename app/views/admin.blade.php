@@ -1,7 +1,7 @@
 @extends('layout')
 
 @section('content')
-  <h2>Welcome "{{ Auth::user()->username }}" to the admin page!</h2>
+<h1><small>Welcome {{ Auth::user()->username }} to the admin page!</small></h1>
 
   <table class="table table-striped table-bordered">
       <thead>

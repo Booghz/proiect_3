@@ -4,7 +4,7 @@
 <?php
  ini_set('mongo.long_as_object', 1);
 ?>
-<h1>Medicine</h1>
+<h1><small>Medicine</small></h1>
 
 <!-- will be used to show any messages -->
 @if (Session::has('message'))
